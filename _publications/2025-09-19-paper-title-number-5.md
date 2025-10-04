@@ -1,0 +1,11 @@
+---
+title: "Doubly Robust Alignment for Large Language Models"
+collection: publications
+permalink: /publication/drpo-alignment
+date: 2025-01-01
+venue: "Conference on Neural Information Processing Systems (NeurIPS)"
+paperurl: ""
+citation: "Erhan Xu*, Kai Ye*, Hongyi Zhou*, Luhan Zhu, Francesco Quinzan, Chengchun Shi. (2025). Doubly Robust Alignment for Large Language Models. *Conference on Neural Information Processing Systems (NeurIPS).*"
+---
+
+This paper introduces a doubly robust policy optimization framework for aligning large language models, achieving improved sample efficiency and stability in preference-based fine-tuning.
