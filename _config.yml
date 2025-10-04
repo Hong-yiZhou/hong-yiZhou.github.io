@@ -9,9 +9,9 @@
 # Basic Site Settings
 
 
-locale                   : "en-US"
+locale                   : "Shanghai-China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hongyi Zhou / Personal Website"
+title                    : "周弘毅 / Hongyi Zhou"
 title_separator          : "-"
 name                     : &name "Hongyi Zhou"
 description              : &description "Hongyi Zhou's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,10 +26,10 @@ repository               : "Hong-yiZhou/hong-yiZhou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hongyi Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Ph.D candidate in Tsinghua University"
+  location         : "Shanghai China"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "zhou-hy21@mails.tsinghua.edu.cn" 
