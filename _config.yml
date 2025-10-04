@@ -7,6 +7,9 @@
 # server process.
 
 # Basic Site Settings
+plugins:
+  - jekyll-remote-theme
+remote_theme: academicpages/academicpages
 
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
