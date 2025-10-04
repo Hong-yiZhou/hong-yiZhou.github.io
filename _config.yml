@@ -7,9 +7,6 @@
 # server process.
 
 # Basic Site Settings
-plugins:
-  - jekyll-remote-theme
-remote_theme: academicpages/academicpages
 
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
@@ -32,9 +29,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhou-hy21@mails.tsinghua.edu.cn" 
 
   # Academic websites
   academia         : # URL
