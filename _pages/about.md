@@ -13,10 +13,11 @@ redirect_from:
 My email zhou-hy21@mails.tsinghua.edu.cn. 
 
 
+You can download my full CV here: [Download CV](/files/CV_HongyiZhou.pdf)
 
 **Research**
 
 
-My research has been dedicated to advancing the fields of artificial intelligence, with a particular focus on large language models (LLMs), reinforcement learning (RL) using statistical methodology.
+My research has been dedicated to advancing the fields of artificial intelligence, with a particular focus on large language models (LLMs), reinforcement learning (RL) using statistical methodology. 
 
 
